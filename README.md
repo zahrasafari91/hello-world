@@ -1,2 +1,2 @@
 # tech1101-Win2020
-Just another repository
+repository for tech1101 course
