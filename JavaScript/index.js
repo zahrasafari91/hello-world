@@ -15,7 +15,7 @@ const obj = {
     name: "zahra",
     age: 28,
     gender: "female",
-    class: ["sodv","tech1101ß"]
+    class: ["sodv","tech1101"]
 };
 
 // console.log(obj)
