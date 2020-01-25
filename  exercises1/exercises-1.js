@@ -35,7 +35,11 @@ const obj = {
 };
 
 
-// // Exercise 6
+// Exercise 6
+let userName = prompt("What ia your name?"," ")
+alert(`Your name is: ${userName}`);
+
+// // Exercise 7
 // // How old are you and your wife?
 // let husbandAge = prompt('How old are you?', 55);
 // let wifeAge = prompt('How old are you?', 45);
