@@ -36,7 +36,7 @@ const obj = {
 
 
 // Exercise 6
-let userName = prompt("What ia your name?"," ")
+let userName = prompt("What is your name?"," ")
 alert(`Your name is: ${userName}`);
 
 // // Exercise 7
@@ -53,3 +53,4 @@ let husbandAge = Number(prompt('How old are you?', 55));
 let wifeAge = Number(prompt('How old are you?', 45));
 alert(husbandAge +wifeAge);
 
+//The Number() function converts the object argument to a number 
